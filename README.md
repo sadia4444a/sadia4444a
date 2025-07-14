@@ -2,7 +2,7 @@
 
 🚀 AI Engineer | 🧠 Computer Vision & NLP Enthusiast | 📚 CSE Graduate from RUET  
 📍 Bangladesh | 💼 AI Engineer @ Deep Mind Labs Ltd.  
-📫 [LinkedIn](https://www.linkedin.com/in/sadiakhatun) | 🧪 [Kaggle](https://www.kaggle.com/sadiakhatun) | 🌐 [Portfolio](https://github.com/sadia4444a)
+📫 [LinkedIn](https://www.linkedin.com/in/sadiakhatun) | 🧪 [Kaggle](https://www.kaggle.com/sadiakhatun) 
 
 ---
 
@@ -10,15 +10,13 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit)
 
 ---
@@ -27,9 +25,6 @@
 
 - 🔬 **AI Engineer**, Deep Mind Labs Ltd  
   Building real-time CV applications: face recognition, people counting, object detection, human activity tracking.
-
-- 🧪 **AI Research Intern**  
-  Worked on model exploration, PoC demos, and MLOps for deploying intelligent vision systems.
 
 - 📢 **Guest Speaker**  
   Invited at DIU to speak on “Transforming Industries with AI” (Feb 2025).
@@ -74,11 +69,7 @@
 ### 🎯 Goals
 
 - Deliver AI solutions for real-world impact  
-- Publish more AI/NLP/CV research  
-- Mentor more students on GitHub  
-- Deep dive into MLOps, Reinforcement Learning & Generative AI
 
 ---
 
 📫 Reach me: **sadiasultana4444a@gmail.com**  
-📍 GitHub: [@sadia4444a](https://github.com/sadia4444a)
