@@ -26,9 +26,6 @@
 - 🔬 **AI Engineer**, Deep Mind Labs Ltd  
   Building real-time CV applications: face recognition, people counting, object detection, human activity tracking.
 
-- 📢 **Guest Speaker**  
-  Invited at DIU to speak on “Transforming Industries with AI” (Feb 2025).
-
 - 👩‍🏫 **AI Mentor**  
   Tutoring students in ML, DL, and CV with hands-on GitHub resources:  
   🔗 [AI Learning Path](https://github.com/sadia4444a/AI-Learning-Path-)
@@ -36,9 +33,6 @@
 ---
 
 ### 🚀 Featured Projects
-
-- 🧠 [**Bangla Fake News Detection (Thesis)**](https://github.com/sadia4444a/Thesis---Natural-Language-Processing)  
-  Combined traditional ML and BERT transformers for Bengali fake news classification (Published in IEEE PEEIACON 2024).
 
 - 🐑 [**Sheep Counting with YOLOv11**](https://github.com/sadia4444a/Sheep_count_computer_vision)  
   Object detection system for smart livestock management.
