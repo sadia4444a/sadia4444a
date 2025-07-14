@@ -1,16 +1,84 @@
-## Hi there 👋
+# 👩‍💻 Mst. Sadia Khatun
 
-<!--
-**sadia4444a/sadia4444a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Engineer | 🧠 Computer Vision & NLP Enthusiast | 📚 CSE Graduate from RUET  
+📍 Bangladesh | 💼 AI Engineer @ Deep Mind Labs Ltd.  
+📫 [LinkedIn](https://www.linkedin.com/in/sadiakhatun) | 🧪 [Kaggle](https://www.kaggle.com/sadiakhatun) | 🌐 [Portfolio](https://github.com/sadia4444a)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit)
+
+---
+
+### 💼 Professional Highlights
+
+- 🔬 **AI Engineer**, Deep Mind Labs Ltd  
+  Building real-time CV applications: face recognition, people counting, object detection, human activity tracking.
+
+- 🧪 **AI Research Intern**  
+  Worked on model exploration, PoC demos, and MLOps for deploying intelligent vision systems.
+
+- 📢 **Guest Speaker**  
+  Invited at DIU to speak on “Transforming Industries with AI” (Feb 2025).
+
+- 👩‍🏫 **AI Mentor**  
+  Tutoring students in ML, DL, and CV with hands-on GitHub resources:  
+  🔗 [AI Learning Path](https://github.com/sadia4444a/AI-Learning-Path-)
+
+---
+
+### 🚀 Featured Projects
+
+- 🧠 [**Bangla Fake News Detection (Thesis)**](https://github.com/sadia4444a/Thesis---Natural-Language-Processing)  
+  Combined traditional ML and BERT transformers for Bengali fake news classification (Published in IEEE PEEIACON 2024).
+
+- 🐑 [**Sheep Counting with YOLOv11**](https://github.com/sadia4444a/Sheep_count_computer_vision)  
+  Object detection system for smart livestock management.
+
+- 🏢 [**Lift Monitoring System**](https://github.com/sadia4444a/Lift_Monitoring_AI)  
+  Real-time crowd flow analysis using YOLOv11.
+
+- 📹 [**YouT App with Google Gemini**](https://github.com/sadia4444a/llm-gemini-project)  
+  Streamlit app for transcript summarization, LinkedIn post generation, and video insights.  
+  🔗 [Live App](https://youtapp.streamlit.app)
+
+- 🏦 **Office Monitoring AI System**  
+  Multi-room surveillance with face recognition, person re-ID, and threat alerts.
+
+- 🤸‍♀️ **ROM Analysis Tool**  
+  Vision-based joint tracking system for physiotherapy and health monitoring.
+
+---
+
+### 📄 Publications
+
+**🔹 IEEE PEEIACON 2024**  
+📜 _Bangla Counterfeit News Identification: Using the Power of BERT_  
+🔗 [View Paper](https://ieeexplore.ieee.org/abstract/document/10800650/)
+
+---
+
+### 🎯 Goals
+
+- Deliver AI solutions for real-world impact  
+- Publish more AI/NLP/CV research  
+- Mentor more students on GitHub  
+- Deep dive into MLOps, Reinforcement Learning & Generative AI
+
+---
+
+📫 Reach me: **sadiasultana4444a@gmail.com**  
+📍 GitHub: [@sadia4444a](https://github.com/sadia4444a)
